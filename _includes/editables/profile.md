@@ -6,4 +6,4 @@ We are aware this sounds like hyperbole, but we kindly ask you to get in touch t
 
 <br/>
 
-_Download Asher Caplan's CURRICULUM VITAE:&nbsp; [[German]](/assets/pdf/LOREBINI-CV-IT.pdf)&nbsp; [[English]](/assets//pdf/LOREBINI-CV-EN.pdf)_
+_Download Asher Caplan's CURRICULUM VITAE:&nbsp; [[German]](/assets/pdf/CAPLAN-CV-IT.pdf)&nbsp; [[English]](/assets//pdf/CAPLAN-CV-EN.pdf)_
