@@ -9,7 +9,7 @@
   }
   font-weight: 300;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .shots {
@@ -58,7 +58,7 @@
     a {
       text-transform: none;
       &:hover {
-        color: black;
+        color: #93825e;
       }
     }
 
