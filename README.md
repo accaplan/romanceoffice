@@ -1,11 +1,5 @@
-[binocle.it](https://binocle.it)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29aceccf-8c1d-4098-8170-0f2870130116/deploy-status)](https://app.netlify.com/sites/romanceoffice-works-csv/deploys)
 ---
-
-## Warning:
-
-Despite this repo being public, it doesn't mean that all these assets are open-source and/or copyright free, or even that you may use any of them. Please, ask for permission first, by contacting us: info@junglestar.org  
-All photos © Binocle. All rights reserved.  
-Thanks, Junglestar team  
 
 ## Features:
 
